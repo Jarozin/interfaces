@@ -1,6 +1,6 @@
 package interfaces
 
-import "app/internal/models"
+import "github.com/Jarozin/models"
 
 type IRepoStatistic interface {
 	GetStatistic() (*models.Statistic, error)

@@ -1,7 +1,7 @@
 package interfaces
 
 import (
-	"app/internal/models"
+	"github.com/Jarozin/models"
 )
 
 type IRepoSerialsFavourites interface {
