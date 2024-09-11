@@ -1,4 +1,4 @@
-module github.com/Jarozin/interfaces
+module interfaces
 
 go 1.22.2
 
